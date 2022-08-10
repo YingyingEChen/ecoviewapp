@@ -1,0 +1,433 @@
+{"data" : [
+    {
+        "lat": 51.374264,
+        "lon": 0.54797,
+        "uid": 3169,
+        "aqi": "14",
+        "station": {
+            "name": "Chatham Roadside, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.449674,
+        "lon": -0.037418,
+        "uid": 11653,
+        "aqi": "32",
+        "station": {
+            "name": "London Honor Oak Park, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.514525336231,
+        "lon": -0.10451562633788,
+        "uid": 7949,
+        "aqi": "-",
+        "station": {
+            "name": "City of London - Farringdon Street, United Kingdom",
+            "time": "2022-08-09T02:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.52105,
+        "lon": -0.213492,
+        "uid": 3194,
+        "aqi": "1",
+        "station": {
+            "name": "London N. Kensington, United Kingdom",
+            "time": "2022-08-10T14:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.552476,
+        "lon": -0.258089,
+        "uid": 7944,
+        "aqi": "42",
+        "station": {
+            "name": "Brent - Ikea, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.532405461781,
+        "lon": -0.21771890863938,
+        "uid": 10875,
+        "aqi": "12",
+        "station": {
+            "name": "Brent - ARK Franklin Primary Academy, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.518167,
+        "lon": 0.439548,
+        "uid": 3213,
+        "aqi": "42",
+        "station": {
+            "name": "Stanford-le-Hope Roadside, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.45258,
+        "lon": 0.070766,
+        "uid": 3190,
+        "aqi": "21",
+        "station": {
+            "name": "London Eltham, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.490532,
+        "lon": 0.074003,
+        "uid": 7953,
+        "aqi": "-",
+        "station": {
+            "name": "Greenwich - A206 Burrage Grove, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.486884,
+        "lon": 0.017901,
+        "uid": 7955,
+        "aqi": "9",
+        "station": {
+            "name": "Greenwich - Woolwich Flyover, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.483907253348,
+        "lon": 0.00040739693584974,
+        "uid": 10103,
+        "aqi": "-",
+        "station": {
+            "name": "Greenwich - Trafalgar Road (Hoskins St), United Kingdom",
+            "time": "2022-08-10T16:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.513847178423,
+        "lon": -0.077765681752,
+        "uid": 8919,
+        "aqi": "68",
+        "station": {
+            "name": "City of London - Sir John Cass School, United Kingdom",
+            "time": "2022-08-10T16:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.562376,
+        "lon": -0.004898,
+        "uid": 11768,
+        "aqi": "34",
+        "station": {
+            "name": "Waltham Forest Dawlish Rd, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.494648681305,
+        "lon": 0.13727911123218,
+        "uid": 7951,
+        "aqi": "30",
+        "station": {
+            "name": "Bexley - Belvedere West, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.569484331524,
+        "lon": 0.082907474896495,
+        "uid": 9041,
+        "aqi": "33",
+        "station": {
+            "name": "Redbridge - Ley Street, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.52253,
+        "lon": -0.154611,
+        "uid": 3193,
+        "aqi": "38",
+        "station": {
+            "name": "London Marylebone Road, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.45617,
+        "lon": 0.634889,
+        "uid": 3207,
+        "aqi": "25",
+        "station": {
+            "name": "Rochester Stoke, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.46603,
+        "lon": 0.184806,
+        "uid": 3188,
+        "aqi": "13",
+        "station": {
+            "name": "London Bexley, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.54421,
+        "lon": -0.175269,
+        "uid": 3166,
+        "aqi": "25",
+        "station": {
+            "name": "Camden Kerbside, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.552656,
+        "lon": -0.248774,
+        "uid": 12504,
+        "aqi": "11",
+        "station": {
+            "name": "Brent - Neasden Lane, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.537799,
+        "lon": -0.247793,
+        "uid": 12503,
+        "aqi": "12",
+        "station": {
+            "name": "Brent - John Keble Primary School, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.617333,
+        "lon": -0.298777,
+        "uid": 3192,
+        "aqi": "25",
+        "station": {
+            "name": "London Harrow Stanmore, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.487534,
+        "lon": -0.479451,
+        "uid": 3390,
+        "aqi": "17",
+        "station": {
+            "name": "London Hillingdon Harmondsworth Os, United Kingdom",
+            "time": "2022-08-10T13:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.490610208215,
+        "lon": 0.15891449392752,
+        "uid": 7952,
+        "aqi": "26",
+        "station": {
+            "name": "Bexley - Belvedere, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.486957,
+        "lon": 0.095111,
+        "uid": 7954,
+        "aqi": "38",
+        "station": {
+            "name": "Greenwich - Plumstead High Street, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.520787459334,
+        "lon": 0.20546070569404,
+        "uid": 7947,
+        "aqi": "23",
+        "station": {
+            "name": "Havering - Rainham, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.474954,
+        "lon": -0.039641,
+        "uid": 7956,
+        "aqi": "28",
+        "station": {
+            "name": "Lewisham - New Cross, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.515046167401,
+        "lon": -0.0084184926564274,
+        "uid": 7948,
+        "aqi": "30",
+        "station": {
+            "name": "Tower Hamlets - Blackwall, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.52229,
+        "lon": -0.125889,
+        "uid": 3189,
+        "aqi": "25",
+        "station": {
+            "name": "London Bloomsbury, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.50632,
+        "lon": -0.045011999999999996,
+        "uid": -234655,
+        "aqi": "-",
+        "station": {
+            "name": "Pageant Crescent",
+            "time": "2022-08-10T20:26:10+09:00"
+        }
+    },
+    {
+        "lat": 51.5073509,
+        "lon": -0.1277583,
+        "uid": 5724,
+        "aqi": "38",
+        "station": {
+            "name": "London",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.456357,
+        "lon": 0.040725,
+        "uid": 7957,
+        "aqi": "16",
+        "station": {
+            "name": "Greenwich - Westhorne Avenue, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.493774669582,
+        "lon": 0.010779623703256,
+        "uid": 10876,
+        "aqi": "11",
+        "station": {
+            "name": "Greenwich - John Harrison Way, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.57661,
+        "lon": 0.030858,
+        "uid": 8918,
+        "aqi": "23",
+        "station": {
+            "name": "Redbridge - Gardner Close, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.425286,
+        "lon": -0.345606,
+        "uid": 3195,
+        "aqi": "30",
+        "station": {
+            "name": "London Teddington Bushy Park, United Kingdom",
+            "time": "2022-08-10T16:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.389286904505,
+        "lon": -0.14166152477989,
+        "uid": 7959,
+        "aqi": "42",
+        "station": {
+            "name": "Sutton - Beddington Lane north, United Kingdom",
+            "time": "2022-08-10T19:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.526454,
+        "lon": -0.08491,
+        "uid": 7946,
+        "aqi": "17",
+        "station": {
+            "name": "Hackney - Old Street, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.527706619465,
+        "lon": -0.12905320528252,
+        "uid": 7945,
+        "aqi": "-",
+        "station": {
+            "name": "Camden - Euston Road, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.5993,
+        "lon": -0.068218,
+        "uid": 3179,
+        "aqi": "34",
+        "station": {
+            "name": "Haringey Roadside, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.49467,
+        "lon": -0.131931,
+        "uid": 10874,
+        "aqi": "25",
+        "station": {
+            "name": "London Westminster, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.489398,
+        "lon": -0.310081,
+        "uid": 11766,
+        "aqi": "25",
+        "station": {
+            "name": "Hounslow Brentford, United Kingdom",
+            "time": "2022-08-10T17:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.492507,
+        "lon": -0.257252,
+        "uid": 11767,
+        "aqi": "38",
+        "station": {
+            "name": "Hounslow Chiswick, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    },
+    {
+        "lat": 51.48879,
+        "lon": -0.441614,
+        "uid": 3191,
+        "aqi": "25",
+        "station": {
+            "name": "London Harlington, United Kingdom",
+            "time": "2022-08-10T18:00:00+09:00"
+        }
+    }
+]
+}

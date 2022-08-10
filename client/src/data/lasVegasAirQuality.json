@@ -1,0 +1,382 @@
+{
+    "markers": [
+        {
+            "name": "Speedway Boulevard",
+            "type": "station",
+            "geohash": "9qqnqs",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.28093997016549,
+                "longitude": -115.02128007821739
+            },
+            "aqi": 6,
+            "url": "usa/nevada/las-vegas/speedway-boulevard",
+            "id": "0e2affb0367c7a25aca3"
+        },
+        {
+            "name": "Moonshine Falls Avenue",
+            "type": "station",
+            "geohash": "9qqndf",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.31289999932051,
+                "longitude": -115.19160001538694
+            },
+            "aqi": 11,
+            "url": "usa/nevada/las-vegas/moonshine-falls-avenue",
+            "id": "bf212626cca48f40ea8a"
+        },
+        {
+            "name": "Squire Boone Avenue",
+            "type": "station",
+            "geohash": "9qqn3v",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.28399999346584,
+                "longitude": -115.2350000012666
+            },
+            "aqi": 11,
+            "url": "usa/nevada/las-vegas/squire-boone-avenue",
+            "id": "f36ad01632b66c5697ec"
+        },
+        {
+            "name": "Joe Neal",
+            "type": "station",
+            "geohash": "9qqn3d",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.27059196587652,
+                "longitude": -115.23828201927245
+            },
+            "aqi": 45,
+            "url": "usa/nevada/las-vegas/joe-neal",
+            "id": "tRpj8XPxMhGN7v8aQ"
+        },
+        {
+            "name": "Rhyolite Terrace",
+            "type": "station",
+            "geohash": "9qqm22",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.0821389965713,
+                "longitude": -114.94951204396784
+            },
+            "aqi": 7,
+            "url": "usa/nevada/whitney/rhyolite-terrace",
+            "id": "5c6522f3eff5bf47a1cac21e"
+        },
+        {
+            "name": "Garrett Jr. High",
+            "type": "station",
+            "geohash": "9qqkdu",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 35.9698479808867,
+                "longitude": -114.83500703237951
+            },
+            "aqi": 43,
+            "url": "usa/nevada/boulder-city/garrett-jr-high",
+            "id": "f20947f925bfdeb99b71"
+        },
+        {
+            "name": "Jerome Mack",
+            "type": "station",
+            "geohash": "9qqjt7",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.141874976456165,
+                "longitude": -115.07874204777181
+            },
+            "aqi": 38,
+            "url": "usa/nevada/las-vegas/jerome-mack",
+            "id": "MXmk5HogNsE6KeGAu"
+        },
+        {
+            "name": "Sunrise Acres",
+            "type": "station",
+            "geohash": "9qqjsx",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.163961961865425,
+                "longitude": -115.11393003165722
+            },
+            "aqi": 41,
+            "url": "usa/nevada/las-vegas/sunrise-acres",
+            "id": "GTWjHXxW8BYh8yikd"
+        },
+        {
+            "name": "UNLV - Sam Boyd Stadium",
+            "type": "station",
+            "geohash": "9qqjq9",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.08648995868862,
+                "longitude": -115.01753403805196
+            },
+            "aqi": 7,
+            "url": "usa/nevada/las-vegas/unlv-sam-boyd-stadium",
+            "id": "a4e7fa9c2f4bd522bacc"
+        },
+        {
+            "name": "GreenValley",
+            "type": "station",
+            "geohash": "9qqjjf",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.048704967834055,
+                "longitude": -115.05294204689562
+            },
+            "aqi": 46,
+            "url": "usa/nevada/henderson/greenvalley",
+            "id": "Lp7i3K3DsqQLoD5Wt"
+        },
+        {
+            "name": "Garwood Court",
+            "type": "station",
+            "geohash": "9qqjj6",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.04889997281134,
+                "longitude": -115.0726000405848
+            },
+            "aqi": 0,
+            "url": "usa/nevada/las-vegas/garwood-court",
+            "id": "e80407f417d844cfdef5"
+        },
+        {
+            "name": "RT",
+            "type": "station",
+            "geohash": "9qqje5",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.13970699720085,
+                "longitude": -115.17565403133631
+            },
+            "aqi": 40,
+            "url": "usa/nevada/las-vegas/rt",
+            "id": "5a965bdb3e70005ed0c100ba"
+        },
+        {
+            "name": "Walter Johnson",
+            "type": "station",
+            "geohash": "9qqjc0",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.169759975746274,
+                "longitude": -115.26303805410862
+            },
+            "aqi": 40,
+            "url": "usa/nevada/las-vegas/walter-johnson",
+            "id": "3bX4Jzjtru29enn7f"
+        },
+        {
+            "name": "Sorrel Street",
+            "type": "station",
+            "geohash": "9qqj9e",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.14089999347925,
+                "longitude": -115.23690001107752
+            },
+            "aqi": 14,
+            "url": "usa/nevada/las-vegas/sorrel-street",
+            "id": "3d4c445a8cd5e7dd2694"
+        },
+        {
+            "name": "Beachmont Drive",
+            "type": "station",
+            "geohash": "9qqj85",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.13999998662621,
+                "longitude": -115.31040008179843
+            },
+            "aqi": 11,
+            "url": "usa/nevada/las-vegas/beachmont-drive",
+            "id": "2e58827318b9ad58a317"
+        },
+        {
+            "name": "UNLV - University District",
+            "type": "station",
+            "geohash": "9qqj7v",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.109860967844725,
+                "longitude": -115.14292404055595
+            },
+            "aqi": 11,
+            "url": "usa/nevada/las-vegas/unlv-university-district",
+            "id": "7a64cf9a8284dab01c7c"
+        },
+        {
+            "name": "Paul Meyer",
+            "type": "station",
+            "geohash": "9qqj3k",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.106388974003494,
+                "longitude": -115.25333306752145
+            },
+            "aqi": 37,
+            "url": "usa/nevada/las-vegas/paul-meyer",
+            "id": "yCgb6rY9AKATHSZi9"
+        },
+        {
+            "name": "Turquoise Stone Court",
+            "type": "station",
+            "geohash": "9qqj14",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.04968598578125,
+                "longitude": -115.25873000733554
+            },
+            "aqi": 12,
+            "url": "usa/nevada/las-vegas/turquoise-stone-court",
+            "id": "8548ec906a2e001072ef"
+        },
+        {
+            "name": "Mossfield Avenue",
+            "type": "station",
+            "geohash": "9qqhu2",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 35.992316971533,
+                "longitude": -115.12511006556451
+            },
+            "aqi": 12,
+            "url": "usa/nevada/las-vegas/mossfield-avenue",
+            "id": "10f2a943e9ec4599af53"
+        },
+        {
+            "name": "Club at Madeira Canyon",
+            "type": "station",
+            "geohash": "9qqhmh",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 35.92849996872246,
+                "longitude": -115.08980004116893
+            },
+            "aqi": 0,
+            "url": "usa/nevada/las-vegas/club-at-madeira-canyon",
+            "id": "152bb589b7f07a7e50f6"
+        },
+        {
+            "name": "East Wigwam Avenue",
+            "type": "station",
+            "geohash": "9qqhgr",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.034799977205694,
+                "longitude": -115.15940001234412
+            },
+            "aqi": 10,
+            "url": "usa/nevada/las-vegas/east-wigwam-avenue",
+            "id": "247c4e775d4a29dbb65c"
+        },
+        {
+            "name": "Mountains Edge",
+            "type": "station",
+            "geohash": "9qqhc4",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.00749999284744,
+                "longitude": -115.26305607520044
+            },
+            "aqi": 33,
+            "url": "usa/nevada/enterprise/mountains-edge",
+            "id": "8654640892de186aa37d"
+        },
+        {
+            "name": "Mount Cass Street",
+            "type": "station",
+            "geohash": "9qqh9z",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 35.987257990054786,
+                "longitude": -115.22745100781322
+            },
+            "aqi": 10,
+            "url": "usa/nevada/las-vegas/mount-cass-street",
+            "id": "37eae909ce24bec17916"
+        },
+        {
+            "name": "Vista Butte Drive",
+            "type": "station",
+            "geohash": "9qmypb",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.21239997446537,
+                "longitude": -115.32120008021593
+            },
+            "aqi": 3,
+            "url": "usa/nevada/las-vegas/vista-butte-drive",
+            "id": "0db77ac85ab4e174a24f"
+        },
+        {
+            "name": "Shackleton Drive",
+            "type": "station",
+            "geohash": "9qmvzx",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.20580999646336,
+                "longitude": -115.32995807938278
+            },
+            "aqi": 10,
+            "url": "usa/nevada/summerlin-south/shackleton-drive",
+            "id": "5c624a5e5d96e746362baad2"
+        },
+        {
+            "name": "Palo Verde",
+            "type": "station",
+            "geohash": "9qmvz9",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.173414988443255,
+                "longitude": -115.33272804692388
+            },
+            "aqi": 32,
+            "url": "usa/nevada/las-vegas/palo-verde",
+            "id": "odFG6ZXW9HT4vk2Fj"
+        },
+        {
+            "name": "Basque Coast Street",
+            "type": "station",
+            "geohash": "9qmvyf",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.18129997048527,
+                "longitude": -115.36380001343787
+            },
+            "aqi": 0,
+            "url": "usa/nevada/las-vegas/basque-coast-street",
+            "id": "ea646aa9076b69a0e809"
+        },
+        {
+            "name": "Glenhaven Place",
+            "type": "station",
+            "geohash": "9qmvwy",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.15808599628508,
+                "longitude": -115.362767027691
+            },
+            "aqi": 10,
+            "url": "usa/nevada/las-vegas/glenhaven-place",
+            "id": "e48fb762b45e5b758b9f"
+        },
+        {
+            "name": "Acacia Park",
+            "type": "station",
+            "geohash": "9qmvr9",
+            "stationsCount": 1,
+            "coordinates": {
+                "latitude": 36.08649997506291,
+                "longitude": -115.32570007257164
+            },
+            "aqi": 16,
+            "url": "usa/nevada/las-vegas/acacia-park",
+            "id": "1096a8d2ded11784f1e3"
+        }
+    ],
+    "total": 29
+}
