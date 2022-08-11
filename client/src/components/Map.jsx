@@ -4,6 +4,8 @@ import lasVegasBuidlingData from '../data/SN2_buildings_train_AOI_2_Vegas_geojso
 
 import { useEffect, useState } from 'react';
 import { fetchStationInfo, fetchStationAqi } from '../api/api';
+import LandInfo from './LandInfo';
+import Profile from './Profile';
 
 
 function between(x, min, max) {
@@ -49,10 +51,10 @@ function StationCircle(station) {
         fetchStationAqi(station.id).then(arr => average(arr)).then(aqi => setStationData(aqi));
     }, [station.id])
 
-    return (<Circle center={[station.coordinates.latitude, station.coordinates.longitude]} radius={2000} pathOptions={setDisplayColor(stationData? stationData: station.aqi)}>
+    return (<Circle center={[station.coordinates.latitude, station.coordinates.longitude]} radius={2000} pathOptions={setDisplayColor(stationData ? stationData : station.aqi)}>
         <Popup><div>
             <h3>{station.name}</h3>
-            <h2>AQI: {stationData? stationData: station.aqi}</h2>
+            <h2>AQI: {stationData ? stationData : station.aqi}</h2>
         </div></Popup>
     </Circle>)
 
@@ -60,6 +62,8 @@ function StationCircle(station) {
 
 function Map() {
     const [stationInfo, setStationInfo] = useState([]);
+    const [show, toggleShow] = useState(false);
+    const [buildingInfo, setBuildingInfo] = useState(undefined);
 
 
     useEffect(() => {
@@ -74,28 +78,47 @@ function Map() {
         )
     }
     return (
-        <MapContainer center={[36.157152835972575, -115.26013259990556]} zoom={12} scrollWheelZoom={false}>
-            <TileLayer
-                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-                attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-            />
-            <LayerGroup>
-                {
-                    stationInfo.map(station => (<StationCircle station = {station}/>))
-                }
-            </LayerGroup>
-            {
-                <LayerGroup>
-                    {lasVegasBuidlingData.features.map(building => (
-                        <Polygon pathOptions={setBuildingColor(building)} positions={building.geometry.coordinates[0].map(x => [x[1], x[0]])}>
-                            <Popup>
-                                <p>{building.geometry.coordinates[0].map(x => [x[1], x[0]])[0]}</p>
-                            </Popup>
-                        </Polygon>
-                    ))}
-                </LayerGroup>
-            }
-        </MapContainer>
+        <section className="sm:flex-row flex flex-col flex-1">
+            <div
+                className="content-box"
+                style={{ flexGrow: 2, flexBasis: "0%" }}
+            >
+                <MapContainer center={[36.157152835972575, -115.26013259990556]} zoom={12} scrollWheelZoom={false}>
+                    <TileLayer
+                        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                        attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                    />
+                    <LayerGroup>
+                        {
+                            stationInfo.map(station => (<StationCircle station={station} />))
+                        }
+                    </LayerGroup>
+                    {
+                        <LayerGroup>
+                            {lasVegasBuidlingData.features.map(building => (
+                                <Polygon pathOptions={setBuildingColor(building)} positions={building.geometry.coordinates[0].map(x => [x[1], x[0]])} eventHandlers={{
+                                    click: () => {
+                                        toggleShow(!show)
+                                        setBuildingInfo(building)
+                                    }
+                                }}>
+                                    {/* <Popup>
+                                        <p>{building.geometry.coordinates[0].map(x => [x[1], x[0]])[0]}</p>
+                                    </Popup> */}
+                                </Polygon>
+                            ))}
+                        </LayerGroup>
+                    }
+                </MapContainer>
+            </div>
+            {show && <div
+                className="content-box"
+                style={{ flexGrow: 1, flexBasis: "0%" }}
+            >
+                <LandInfo building={buildingInfo} />
+                {/* <Profile /> */}
+            </div>}
+        </section>
     );
 }
 
